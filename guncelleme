@@ -1,0 +1,12 @@
+Spheron CLI 'yi İndirelim                             
+
+curl -sL1 https://sphnctl.sh | bash
+
+Node u başlatalım
+
+
+sphnctl fizz start --token 
+
+Log kontrolü
+
+sphnctl fizz logs
